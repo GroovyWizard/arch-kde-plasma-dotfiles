@@ -3,6 +3,9 @@
 
 My personal dotfiles and config for KDE plasma with Arch Linux. Since i finally felt that i hit the stability nirvana of Arch, after some hard distro hopping in the last week because new nvidia drivers borked my system (RTX 3050 is not playing very well with new drivers) i want to keep this here for future reference when i decide to do some fresh arch installation again or something breaks. Anyway i just cant use anything besides arch anymore (after 1 year as my daily driver).
 
+### Screenshot: 
+![](https://github.com/GroovyWizard/arch-kde-plasma-dotfiles/blob/main/screenshots/2022-10-08_00-17.png)
+
 ## General Stuff:
 - Neofetch (Fancy terminal thing)
 - Neovim / Vim (Editor)
